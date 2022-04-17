@@ -1,0 +1,16 @@
+C:\GafsaUniversity\GitTp\Application-1\bin\Debug\net5.0\Application-1.exe
+C:\GafsaUniversity\GitTp\Application-1\bin\Debug\net5.0\Application-1.deps.json
+C:\GafsaUniversity\GitTp\Application-1\bin\Debug\net5.0\Application-1.runtimeconfig.json
+C:\GafsaUniversity\GitTp\Application-1\bin\Debug\net5.0\Application-1.runtimeconfig.dev.json
+C:\GafsaUniversity\GitTp\Application-1\bin\Debug\net5.0\Application-1.dll
+C:\GafsaUniversity\GitTp\Application-1\bin\Debug\net5.0\ref\Application-1.dll
+C:\GafsaUniversity\GitTp\Application-1\bin\Debug\net5.0\Application-1.pdb
+C:\GafsaUniversity\GitTp\Application-1\obj\Debug\net5.0\Application-1.csproj.AssemblyReference.cache
+C:\GafsaUniversity\GitTp\Application-1\obj\Debug\net5.0\Application-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GafsaUniversity\GitTp\Application-1\obj\Debug\net5.0\Application-1.AssemblyInfoInputs.cache
+C:\GafsaUniversity\GitTp\Application-1\obj\Debug\net5.0\Application-1.AssemblyInfo.cs
+C:\GafsaUniversity\GitTp\Application-1\obj\Debug\net5.0\Application-1.csproj.CoreCompileInputs.cache
+C:\GafsaUniversity\GitTp\Application-1\obj\Debug\net5.0\Application-1.dll
+C:\GafsaUniversity\GitTp\Application-1\obj\Debug\net5.0\ref\Application-1.dll
+C:\GafsaUniversity\GitTp\Application-1\obj\Debug\net5.0\Application-1.pdb
+C:\GafsaUniversity\GitTp\Application-1\obj\Debug\net5.0\Application-1.genruntimeconfig.cache
